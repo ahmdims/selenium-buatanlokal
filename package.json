@@ -1,0 +1,13 @@
+{
+  "name": "selenium-buatanlokal",
+  "version": "1.0.0",
+  "description": "Simulasi navigasi halaman utama buatanlokal.id dengan Selenium WebDriver (Tugas Kelompok 3, Information System Security)",
+  "main": "navigasi_buatanlokal.js",
+  "scripts": {
+    "start": "node navigasi_buatanlokal.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "selenium-webdriver": "^4.51.0"
+  }
+}

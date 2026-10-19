@@ -1,0 +1,16 @@
+[1] URL   : https://buatanlokal.id/
+[1] Judul : Home - Etalase Produk UMKM
+[2] Menu navigasi:
+    - BUATANLOKAL.ID https://buatanlokal.id/
+    - Home           https://buatanlokal.id/
+    - Etalase        https://buatanlokal.id/products
+    - Registrasi     https://buatanlokal.id/register
+    - Pelaku Usaha   https://buatanlokal.id/actors
+    - Publikasi      https://buatanlokal.id/publications
+    - Panduan        https://buatanlokal.id/guidances
+    - FAQ            https://buatanlokal.id/faqs
+    - Login          https://buatanlokal.id/login
+[3] Setelah klik Etalase : https://buatanlokal.id/products
+[3] Setelah back         : https://buatanlokal.id/
+[3] Setelah forward      : https://buatanlokal.id/products
+[3] Judul setelah refresh: Produk - Etalase Produk UMKM
